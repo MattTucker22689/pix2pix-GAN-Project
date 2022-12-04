@@ -19,5 +19,5 @@ to achive some goal. In particualar, we set out to learn the mathematics behind 
 - You will need to train the model by running "train.py" in "\pix2pix\"
 - Once trained, to deploy the model, run "deploy.py" in "\pix2pix\"
 
-Keep in nmind, modification to some of the files may be neccesary depending on where I am in steralizing the file when you download 
+Keep in mind, modification to some of the files may be neccesary depending on where I am in steralizing the file when you download 
 the repo.
