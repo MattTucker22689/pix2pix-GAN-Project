@@ -20,6 +20,8 @@ to achive some goal. In particualar, we set out to learn the mathematics behind 
 - Once trained, to deploy the model, run "deploy.py" in "\pix2pix\"
 
 # Notes:
+- In our application of the code, we used the universities'(Wichita State University) HPC system. As a result, unless you are using the 
+same system, you can ignore the file "run_training.slurm" in "\pix2pix\."
 - Modification to some of the files may be neccesary depending on where I am in steralizing the file when you download 
 the repo.
 - For this project we used the WikiArt data set which can be found here:
