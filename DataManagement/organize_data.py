@@ -35,7 +35,7 @@ name_train = 0
 for image in os.listdir(directory):
     print(str(image))
     img = Image.open(directory + "/" + image)
-    rnd = random.randint(0, 3)
+    rnd = random.randint(0, 1000)
     if rnd == 0:
         img.save(directory_val + "/" + str(name_val) + ".png")
         name_val += 1
