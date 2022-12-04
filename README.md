@@ -11,4 +11,6 @@ by me.
 The purpose of the project, was to demonstrate an ability to apply the topics of the course, while learning and applying new material
 to achive some goal. In particualar, we set out to learn the mathematics behind GANs and implement a demonstration of a GAN.
 
-File tree of this repo:
+# To run:
+- You will need to add the folders "data\" and "evaluation\" to "\pix2pix\."
+- You will also need to add "training\" and "val\ to "\pix2pix\data\."
