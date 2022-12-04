@@ -14,3 +14,10 @@ to achive some goal. In particualar, we set out to learn the mathematics behind 
 # To run:
 - You will need to add the folders "data\" and "evaluation\" to "\pix2pix\."
 - You will also need to add "training\" and "val\ to "\pix2pix\data\."
+- You will need to populate the folder "\pix2pix\data\training\" with training data
+- You will need to add validation data the folder "\pix2pix\data\val\" folder
+- You will need to train the model by running "train.py" in "\pix2pix\"
+- Once trained, to deploy the model, run "deploy.py" in "\pix2pix\"
+
+Keep in nmind, modification to some of the files may be neccesary depending on where I am in steralizing the file when you download 
+the repo.
