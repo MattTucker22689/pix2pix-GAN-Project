@@ -1,4 +1,4 @@
-# Function to stiches two images together
+# Function to add noise to domain data an stitch two images together
 import random
 
 import numpy as np
