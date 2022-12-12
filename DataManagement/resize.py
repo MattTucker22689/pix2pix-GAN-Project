@@ -1,5 +1,4 @@
-# Function to rename multiple files
-#Only run once, any more than that and you will delete files due to duplicated names
+# Function to resize images
 
 import os
 from PIL import Image
